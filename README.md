@@ -1,3 +1,4 @@
 # TodoList
 
-Add/Delete/Edit a todo 
+Android App
+Add/Delete/Edit todo 
